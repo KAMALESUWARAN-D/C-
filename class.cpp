@@ -20,7 +20,7 @@ public:
 }; 
 int main()
 {
-	cout<<"ADDISION"<<end1;
+	cout<<"ADDISION";
     number num;
     num.getdata();    
     num.add();
