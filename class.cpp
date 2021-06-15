@@ -4,7 +4,7 @@ class number
 {
 private:
     int a, b;
-    float r;
+    int r;
 
 public:
     void getdata()
@@ -20,6 +20,7 @@ public:
 }; 
 int main()
 {
+	cout<<"ADDISION"<<end1;
     number num;
     num.getdata();    
     num.add();
